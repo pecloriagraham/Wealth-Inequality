@@ -1,0 +1,35 @@
+img {
+    width: 650px;
+}
+
+.page1 {
+    background-image: url("https://66.media.tumblr.com/f3bea566dae31452186a54dd65859994/tumblr_pqzl1lr8oG1qfpd71o1_400.jpg");
+}
+
+.it {
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+}
+p {
+    font-size:20px;
+}
+.video{
+    width:750px;
+    height:750px;
+}
+    .page3 {
+        font-family: 'Bangers', cursive;
+        padding:100px;
+       background-color:gold;
+    }
+    .quote{
+         border:10px solid black;
+         padding:20px;
+          }
+          h2{
+              font-size:50px;
+          }
+          .page2{
+              background-color:gold;
+          }
